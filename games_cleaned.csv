@@ -1,0 +1,454 @@
+Year,City,Final,Team_1,Team_2,Toss_winner,Match_won,Won,Win_by_runs,Win_by_wickets,Player_of_the_match
+1975,London,No,England,India,England,England won by 202 runs,England,202,0,D L Amiss
+1975,Birmingham,No,East Africa,New Zealand,New Zealand,New Zealand won by 181 runs,New Zealand,181,0,G M Turner
+1975,Leeds,No,Australia,Pakistan,Australia,Australia won by 73 runs,Australia,73,0,D K Lillee
+1975,Manchester,No,Sri Lanka,West Indies,West Indies,West Indies won by 9 wickets,West Indies,0,9,B D Julien
+1975,Nottingham,No,England,New Zealand,New Zealand,England won by 80 runs,England,80,0,K W R Fletcher
+1975,Leeds,No,East Africa,India,East Africa,India won by 10 wickets,India,0,10,F M Engineer
+1975,London,No,Australia,Sri Lanka,Sri Lanka,Australia won by 52 runs,Australia,52,0,A Turner
+1975,Birmingham,No,Pakistan,West Indies,Pakistan,West Indies won by 1 wicket,West Indies,0,1,Sarfraz Nawaz
+1975,Birmingham,No,England,East Africa,East Africa,England won by 196 runs,England,196,0,J A Snow
+1975,Manchester,No,India,New Zealand,India,New Zealand won by 4 wickets,New Zealand,0,4,G M Turner
+1975,London,No,Australia,West Indies,West Indies,West Indies won by 7 wickets,West Indies,0,7,A I Kallicharran
+1975,Nottingham,No,Pakistan,Sri Lanka,Sri Lanka,Pakistan won by 192 runs,Pakistan,192,0,Zaheer Abbas
+1975,Leeds,No,England,Australia,Australia,Australia won by 4 wickets,Australia,0,4,G J Gilmour
+1975,London,No,New Zealand,West Indies,West Indies,West Indies won by 5 wickets,West Indies,0,5,A I Kallicharran
+1975,London,Yes,Australia,West Indies,Australia,West Indies won by 17 runs,West Indies,17,0,C H Lloyd
+1979,Birmingham,No,India,West Indies,West Indies,West Indies won by 9 wickets,West Indies,0,9,C G Greenidge
+1979,Nottingham,No,New Zealand,Sri Lanka,New Zealand,New Zealand won by 9 wickets,New Zealand,0,9,G P Howarth
+1979,London,No,England,Australia,England,England won by 6 wickets,England,0,6,G A Gooch
+1979,Leeds,No,Canada,Pakistan,Canada,Pakistan won by 8 wickets,Pakistan,0,8,Sadiq Mohammad
+1979,London,No,West Indies,Sri Lanka,No Toss,Match abandoned,Match abandoned,0,0,No Award
+1979,Leeds,No,India,New Zealand,New Zealand,New Zealand won by 8 wickets,New Zealand,0,8,B A Edgar
+1979,Nottingham,No,Australia,Pakistan,Australia,Pakistan won by 89 runs,Pakistan,89,0,Asif Iqbal
+1979,Manchester,No,England,Canada,Canada,England won by 8 wickets,England,0,8,C M Old
+1979,Manchester,No,India,Sri Lanka,India,Sri Lanka won by 47 runs,Sri Lanka,47,0,L R D Mendis
+1979,Nottingham,No,New Zealand,West Indies,New Zealand,West Indies won by 32 runs,West Indies,32,0,C H Lloyd
+1979,Birmingham,No,Australia,Canada,Australia,Australia won by 7 wickets,Australia,0,7,A G Hurst
+1979,Leeds,No,England,Pakistan,Pakistan,England won by 14 runs,England,14,0,M Hendrick
+1979,Manchester,No,England,New Zealand,New Zealand,England won by 9 runs,England,9,0,G A Gooch
+1979,London,No,Pakistan,West Indies,Pakistan,West Indies won by 43 runs,West Indies,43,0,C G Greenidge
+1979,London,Yes,England,West Indies,England,West Indies won by 92 runs,West Indies,92,0,I V A Richards
+1983,London,No,England,New Zealand,England,England won by 106 runs,England,106,0,A J Lamb
+1983,Swansea,No,Pakistan,Sri Lanka,Sri Lanka,Pakistan won by 50 runs,Pakistan,50,0,Mohsin Khan
+1983,Nottingham,No,Australia,Zimbabwe,Australia,Zimbabwe won by 13 runs,Zimbabwe,13,0,D A G Fletcher
+1983,Manchester,No,India,West Indies,West Indies,India won by 34 runs,India,34,0,Yashpal Sharma
+1983,Taunton,No,England,Sri Lanka,England,England won by 47 runs,England,47,0,D I Gower
+1983,Birmingham,No,New Zealand,Pakistan,Pakistan,New Zealand won by 52 runs,New Zealand,52,0,Abdul Qadir
+1983,Leeds,No,Australia,West Indies,Australia,West Indies won by 101 runs,West Indies,101,0,W W Davis
+1983,Leicester,No,India,Zimbabwe,India,India won by 5 wickets,India,0,5,S Madan Lal
+1983,London,No,England,Pakistan,Pakistan,England won by 8 wickets,England,0,8,Zaheer Abbas
+1983,Bristol,No,New Zealand,Sri Lanka,New Zealand,New Zealand won by 5 wickets,New Zealand,0,5,R J Hadlee
+1983,Nottingham,No,Australia,India,Australia,Australia won by 162 runs,Australia,162,0,T M Chappell
+1983,Worcester,No,West Indies,Zimbabwe,West Indies,West Indies won by 8 wickets,West Indies,0,8,C G Greenidge
+1983,Birmingham,No,England,New Zealand,England,New Zealand won by 2 wickets,New Zealand,0,2,J V Coney
+1983,London,No,India,West Indies,West Indies,West Indies won by 66 runs,West Indies,66,0,I V A Richards
+1983,Leeds,No,Pakistan,Sri Lanka,Sri Lanka,Pakistan won by 11 runs,Pakistan,11,0,Abdul Qadir
+1983,Southampton,No,Australia,Zimbabwe,Australia,Australia won by 32 runs,Australia,32,0,D L Houghton
+1983,Manchester,No,England,Pakistan,Pakistan,England won by 7 wickets,England,0,7,G Fowler
+1983,Derby,No,New Zealand,Sri Lanka,Sri Lanka,Sri Lanka won by 3 wickets,Sri Lanka,0,3,A L F De Mel
+1983,London,No,Australia,West Indies,Australia,West Indies won by 7 wickets,West Indies,0,7,I V A Richards
+1983,Tunbridge Wells,No,India,Zimbabwe,India,India won by 31 runs,India,31,0,Kapil Dev
+1983,Leeds,No,England,Sri Lanka,England,England won by 9 wickets,England,0,9,R G D Willis
+1983,Nottingham,No,New Zealand,Pakistan,Pakistan,Pakistan won by 11 runs,Pakistan,11,0,Imran Khan
+1983,Chelmsford,No,Australia,India,India,India won by 118 runs,India,118,0,R M H Binny
+1983,Birmingham,No,West Indies,Zimbabwe,Zimbabwe,West Indies won by 10 wickets,West Indies,0,10,S F A Bacchus
+1983,Manchester,No,England,India,England,India won by 6 wickets,India,0,6,M Amarnath
+1983,London,No,Pakistan,West Indies,West Indies,West Indies won by 8 wickets,West Indies,0,8,I V A Richards
+1983,London,Yes,India,West Indies,West Indies,India won by 43 runs,India,43,0,M Amarnath
+1987,Hyderabad (Sind),No,Pakistan,Sri Lanka,Pakistan,Pakistan won by 15 runs,Pakistan,15,0,Javed Miandad
+1987,Gujwranwala,No,England,West Indies,England,England won by 2 wickets,England,0,2,A J Lamb
+1987,Chennai,No,India,Australia,India,Australia won by 1 run,Australia,1,0,G R Marsh
+1987,Hyderabad (Deccan),No,New Zealand,Zimbabwe,Zimbabwe,New Zealand won by 3 runs,New Zealand,3,0,D L Houghton
+1987,Rawalpindi,No,Pakistan,England,England,Pakistan won by 18 runs,Pakistan,18,0,Abdul Qadir
+1987,Chennai,No,Australia,Zimbabwe,Zimbabwe,Australia won by 96 runs,Australia,96,0,S R Waugh
+1987,Karachi,No,Sri Lanka,West Indies,Sri Lanka,West Indies won by 191 runs,West Indies,191,0,I V A Richards
+1987,Bangalore,No,India,New Zealand,New Zealand,India won by 16 runs,India,16,0,Kapil Dev
+1987,Lahore,No,Pakistan,West Indies,West Indies,Pakistan won by 1 wicket,Pakistan,0,1,Saleem Yousuf
+1987,Peshawar,No,England,Sri Lanka,England,England won by 109 runs [Revised Target],England,109,0,A J Lamb
+1987,Mumbai,No,India,Zimbabwe,Zimbabwe,India won by 8 wickets,India,0,8,M M Prabhakar
+1987,Indore,No,Australia,New Zealand,New Zealand,Australia won by 3 runs,Australia,3,0,D C Boon
+1987,Karachi,No,Pakistan,England,Pakistan,Pakistan won by 7 wickets,Pakistan,0,7,Imran Khan
+1987,Kanpur,No,Sri Lanka,West Indies,Sri Lanka,West Indies won by 25 runs,West Indies,25,0,P V Simmons
+1987,Delhi,No,India,Australia,Australia,India won by 56 runs,India,56,0,M Azharuddin
+1987,Kolkata,No,New Zealand,Zimbabwe,New Zealand,New Zealand won by 4 wickets,New Zealand,0,4,J J Crowe
+1987,Faisalabad (Lyallpur),No,Pakistan,Sri Lanka,Pakistan,Pakistan won by 113 runs,Pakistan,113,0,Saleem Malik
+1987,Jaipur,No,England,West Indies,West Indies,England won by 34 runs,England,34,0,G A Gooch
+1987,Ahmedabad,No,India,Zimbabwe,India,India won by 7 wickets,India,0,7,Kapil Dev
+1987,Chandigarh,No,Australia,New Zealand,Australia,Australia won by 17 runs,Australia,17,0,G R Marsh
+1987,Cuttack,No,Australia,Zimbabwe,Zimbabwe,Australia won by 70 runs,Australia,70,0,D C Boon
+1987,Pune,No,England,Sri Lanka,Sri Lanka,England won by 8 wickets,England,0,8,G A Gooch
+1987,Karachi,No,Pakistan,West Indies,West Indies,West Indies won by 28 runs,West Indies,28,0,R B Richardson
+1987,Nagpur,No,India,New Zealand,New Zealand,India won by 9 wickets,India,0,9,"S M Gavaskar, C Sharma"
+1987,Lahore,No,Pakistan,Australia,Australia,Australia won by 18 runs,Australia,18,0,C J McDermott
+1987,Mumbai,No,India,England,India,England won by 35 runs,England,35,0,G A Gooch
+1987,Kolkata,Yes,Australia,England,Australia,Australia won by 7 runs,Australia,7,0,D C Boon
+1992,Auckland,No,New Zealand,Australia,New Zealand,New Zealand won by 37 runs,New Zealand,37,0,M D Crowe
+1992,Perth,No,England,India,England,England won by 9 runs,England,9,0,I T Botham
+1992,New Plymouth,No,Sri Lanka,Zimbabwe,Sri Lanka,Sri Lanka won by 3 wickets,Sri Lanka,0,3,A Flower
+1992,Melbourne,No,Pakistan,West Indies,West Indies,West Indies won by 10 wickets,West Indies,0,10,B C Lara
+1992,Hamilton,No,New Zealand,Sri Lanka,New Zealand,New Zealand won by 6 wickets,New Zealand,0,6,K R Rutherford
+1992,Sydney,No,Australia,South Africa,Australia,South Africa won by 9 wickets,South Africa,0,9,K C Wessels
+1992,Hobart,No,Pakistan,Zimbabwe,Zimbabwe,Pakistan won by 53 runs,Pakistan,53,0,Aamir Sohail
+1992,Melbourne,No,England,West Indies,England,England won by 6 wickets,England,0,6,C C Lewis
+1992,Mackay,No,India,Sri Lanka,Sri Lanka,No result,No result,0,0,No Award
+1992,Auckland,No,New Zealand,South Africa,South Africa,New Zealand won by 7 wickets,New Zealand,0,7,M J Greatbatch
+1992,Brisbane,No,West Indies,Zimbabwe,Zimbabwe,West Indies won by 75 runs,West Indies,75,0,B C Lara
+1992,Brisbane,No,Australia,India,Australia,Australia won by 1 run [Revised Target],Australia,1,0,D M Jones
+1992,Adelaide,No,England,Pakistan,England,No result,No result,0,0,No Award
+1992,Wellington,No,South Africa,Sri Lanka,Sri Lanka,Sri Lanka won by 3 wickets,Sri Lanka,0,3,A Ranatunga
+1992,Napier,No,New Zealand,Zimbabwe,Zimbabwe,New Zealand won by 48 runs [Revised Target],New Zealand,48,0,M D Crowe
+1992,Sydney,No,India,Pakistan,India,India won by 43 runs,India,43,0,S R Tendulkar
+1992,Christchurch,No,South Africa,West Indies,West Indies,South Africa won by 64 runs,South Africa,64,0,M W Pringle
+1992,Sydney,No,Australia,England,Australia,England won by 8 wickets,England,0,8,I T Botham
+1992,Hamilton,No,India,Zimbabwe,India,India won by 55 runs [Revised Target],India,55,0,S R Tendulkar
+1992,Adelaide,No,Australia,Sri Lanka,Australia,Australia won by 7 wickets,Australia,0,7,T M Moody
+1992,Auckland,No,New Zealand,West Indies,New Zealand,New Zealand won by 5 wickets,New Zealand,0,5,M D Crowe
+1992,Brisbane,No,Pakistan,South Africa,Pakistan,South Africa won by 20 runs [Revised Target],South Africa,20,0,A C Hudson
+1992,Ballarat,No,England,Sri Lanka,England,England won by 106 runs,England,106,0,C C Lewis
+1992,Wellington,No,India,West Indies,India,West Indies won by 5 wickets [Revised Target],West Indies,0,5,A C Cummins
+1992,Canberra,No,South Africa,Zimbabwe,South Africa,South Africa won by 7 wickets,South Africa,0,7,P N Kirsten
+1992,Perth,No,Australia,Pakistan,Pakistan,Pakistan won by 48 runs,Pakistan,48,0,Aamir Sohail
+1992,Dunedin,No,New Zealand,India,New Zealand,New Zealand won by 4 wickets,New Zealand,0,4,M J Greatbatch
+1992,Melbourne,No,England,South Africa,England,England won by 3 wickets [Revised Target],England,0,3,A J Stewart
+1992,Berri,No,Sri Lanka,West Indies,Sri Lanka,West Indies won by 91 runs,West Indies,91,0,P V Simmons
+1992,Hobart,No,Australia,Zimbabwe,Australia,Australia won by 128 runs,Australia,128,0,M E Waugh
+1992,Wellington,No,New Zealand,England,New Zealand,New Zealand won by 7 wickets,New Zealand,0,7,A H Jones
+1992,Adelaide,No,India,South Africa,South Africa,South Africa won by 6 wickets,South Africa,0,6,P N Kirsten
+1992,Perth,No,Pakistan,Sri Lanka,Sri Lanka,Pakistan won by 4 wickets,Pakistan,0,4,Javed Miandad
+1992,Christchurch,No,New Zealand,Pakistan,Pakistan,Pakistan won by 7 wickets,Pakistan,0,7,Mushtaq Ahmed
+1992,Albury,No,England,Zimbabwe,England,Zimbabwe won by 9 runs,Zimbabwe,9,0,E A Brandes
+1992,Melbourne,No,Australia,West Indies,Australia,Australia won by 57 runs,Australia,57,0,D C Boon
+1992,Auckland,No,New Zealand,Pakistan,New Zealand,Pakistan won by 4 wickets,Pakistan,0,4,Inzamam-ul-Haq
+1992,Sydney,No,England,South Africa,South Africa,England won by 19 runs [Revised Target],England,19,0,G A Hick
+1992,Melbourne,Yes,England,Pakistan,Pakistan,Pakistan won by 22 runs,Pakistan,22,0,Wasim Akram
+1996,Ahmedabad,No,England,New Zealand,England,New Zealand won by 11 runs,New Zealand,11,0,N J Astle
+1996,Rawalpindi,No,South Africa,United Arab Emirates,United Arab Emirates,South Africa won by 169 runs,South Africa,169,0,G Kirsten
+1996,Hyderabad (Deccan),No,West Indies,Zimbabwe,Zimbabwe,West Indies won by 6 wickets,West Indies,0,6,C E L Ambrose
+1996,Colombo,No,Sri Lanka,Australia,Sri Lanka,Sri Lanka won by default,Sri Lanka,0,0,No Award
+1996,Vadodara,No,Netherlands,New Zealand,New Zealand,New Zealand won by 119 runs,New Zealand,119,0,C M Spearman
+1996,Cuttack,No,India,Kenya,India,India won by 7 wickets,India,0,7,S R Tendulkar
+1996,Peshawar,No,England,United Arab Emirates,United Arab Emirates,England won by 8 wickets,England,0,8,N M K Smith
+1996,Faisalabad (Lyallpur),No,New Zealand,South Africa,New Zealand,South Africa won by 5 wickets,South Africa,0,5,W J Cronje
+1996,Colombo,No,Sri Lanka,Zimbabwe,Zimbabwe,Sri Lanka won by 6 wickets,Sri Lanka,0,6,P A de Silva
+1996,Gwalior,No,India,West Indies,West Indies,India won by 5 wickets,India,0,5,S R Tendulkar
+1996,Peshawar,No,England,Netherlands,England,England won by 49 runs,England,49,0,G A Hick
+1996,Visakhapatnam,No,Australia,Kenya,Kenya,Australia won by 97 runs,Australia,97,0,M E Waugh
+1996,Gujwranwala,No,Pakistan,United Arab Emirates,Pakistan,Pakistan won by 9 wickets,Pakistan,0,9,Mushtaq Ahmed
+1996,Colombo,No,Sri Lanka,West Indies,Sri Lanka,Sri Lanka won by default,Sri Lanka,0,0,No Award
+1996,Rawalpindi,No,England,South Africa,South Africa,South Africa won by 78 runs,South Africa,78,0,J N Rhodes
+1996,Lahore,No,Pakistan,Netherlands,Netherlands,Pakistan won by 8 wickets,Pakistan,0,8,Waqar Younis
+1996,Patna,No,Kenya,Zimbabwe,Zimbabwe,Zimbabwe won by 5 wickets,Zimbabwe,0,5,P A Strang
+1996,Faisalabad (Lyallpur),No,New Zealand,United Arab Emirates,United Arab Emirates,New Zealand won by 109 runs,New Zealand,109,0,R G Twose
+1996,Mumbai,No,India,Australia,Australia,Australia won by 16 runs,Australia,16,0,M E Waugh
+1996,Pune,No,Kenya,West Indies,West Indies,Kenya won by 73 runs,Kenya,73,0,M O Odumbe
+1996,Karachi,No,Pakistan,South Africa,Pakistan,South Africa won by 5 wickets,South Africa,0,5,W J Cronje
+1996,Nagpur,No,Australia,Zimbabwe,Zimbabwe,Australia won by 8 wickets,Australia,0,8,S K Warne
+1996,Lahore,No,Netherlands,United Arab Emirates,United Arab Emirates,United Arab Emirates won by 7 wickets,United Arab Emirates,0,7,"S F Dukanwala, Sultan Zarawani"
+1996,Delhi,No,India,Sri Lanka,Sri Lanka,Sri Lanka won by 6 wickets,Sri Lanka,0,6,S T Jayasuriya
+1996,Karachi,No,Pakistan,England,England,Pakistan won by 7 wickets,Pakistan,0,7,Aamir Sohail
+1996,Jaipur,No,Australia,West Indies,Australia,West Indies won by 4 wickets,West Indies,0,4,R B Richardson
+1996,Rawalpindi,No,South Africa,Netherlands,South Africa,South Africa won by 160 runs,South Africa,160,0,A C Hudson
+1996,Kandy,No,Sri Lanka,Kenya,Kenya,Sri Lanka won by 144 runs,Sri Lanka,144,0,P A de Silva
+1996,Kanpur,No,India,Zimbabwe,Zimbabwe,India won by 40 runs,India,40,0,A Jadeja
+1996,Lahore,No,Pakistan,New Zealand,New Zealand,Pakistan won by 46 runs,Pakistan,46,0,Saleem Malik
+1996,Faisalabad (Lyallpur),No,England,Sri Lanka,England,Sri Lanka won by 5 wickets,Sri Lanka,0,5,S T Jayasuriya
+1996,Bangalore,No,India,Pakistan,India,India won by 39 runs,India,39,0,N S Sidhu
+1996,Karachi,No,South Africa,West Indies,West Indies,West Indies won by 19 runs,West Indies,19,0,B C Lara
+1996,Chennai,No,Australia,New Zealand,New Zealand,Australia won by 6 wickets,Australia,0,6,M E Waugh
+1996,Kolkata,No,India,Sri Lanka,India,Sri Lanka won by default,Sri Lanka,0,0,P A de Silva
+1996,Chandigarh,No,Australia,West Indies,Australia,Australia won by 5 runs,Australia,5,0,S K Warne
+1996,Lahore,Yes,Australia,Sri Lanka,Sri Lanka,Sri Lanka won by 7 wickets,Sri Lanka,0,7,P A de Silva
+1999,London,No,England,Sri Lanka,England,England won by 8 wickets,England,0,8,A J Stewart
+1999,Hove,No,India,South Africa,India,South Africa won by 4 wickets,South Africa,0,4,J H Kallis
+1999,Taunton,No,Kenya,Zimbabwe,Zimbabwe,Zimbabwe won by 5 wickets,Zimbabwe,0,5,N C Johnson
+1999,Worcester,No,Australia,Scotland,Australia,Australia won by 6 wickets,Australia,0,6,M E Waugh
+1999,Bristol,No,Pakistan,West Indies,Pakistan,Pakistan won by 27 runs,Pakistan,27,0,Azhar Mahmood
+1999,Chelmsford,No,Bangladesh,New Zealand,New Zealand,New Zealand won by 6 wickets,New Zealand,0,6,G R Larsen
+1999,Canterbury,No,England,Kenya,England,England won by 9 wickets,England,0,9,S O Tikolo
+1999,Leicester,No,India,Zimbabwe,India,Zimbabwe won by 3 runs,Zimbabwe,3,0,G W Flower
+1999,Northampton,No,South Africa,Sri Lanka,Sri Lanka,South Africa won by 89 runs,South Africa,89,0,L Klusener
+1999,Cardiff,No,Australia,New Zealand,Australia,New Zealand won by 5 wickets,New Zealand,0,5,R G Twose
+1999,Chester-Le-Street,No,Pakistan,Scotland,Scotland,Pakistan won by 94 runs,Pakistan,94,0,Mohammad Yousuf
+1999,Dublin,No,Bangladesh,West Indies,Bangladesh,West Indies won by 7 wickets,West Indies,0,7,C A Walsh
+1999,London,No,England,South Africa,England,South Africa won by 122 runs,South Africa,122,0,L Klusener
+1999,Worcester,No,Sri Lanka,Zimbabwe,Sri Lanka,Sri Lanka won by 4 wickets,Sri Lanka,0,4,M S Atapattu
+1999,Bristol,No,India,Kenya,Kenya,India won by 94 runs,India,94,0,S R Tendulkar
+1999,Leeds,No,Australia,Pakistan,Australia,Pakistan won by 10 runs,Pakistan,10,0,Inzamam-ul-Haq
+1999,Edinburgh,No,Scotland,Bangladesh,Scotland,Bangladesh won by 22 runs,Bangladesh,22,0,Minhajul Abedin
+1999,Southampton,No,New Zealand,West Indies,West Indies,West Indies won by 7 wickets,West Indies,0,7,R D Jacobs
+1999,Nottingham,No,England,Zimbabwe,England,England won by 7 wickets,England,0,7,A D Mullally
+1999,Amstelveen,No,Kenya,South Africa,South Africa,South Africa won by 7 wickets,South Africa,0,7,L Klusener
+1999,Taunton,No,India,Sri Lanka,Sri Lanka,India won by 157 runs,India,157,0,S C Ganguly
+1999,Chester-Le-Street,No,Australia,Bangladesh,Australia,Australia won by 7 wickets,Australia,0,7,T M Moody
+1999,Leicester,No,Scotland,West Indies,Scotland,West Indies won by 8 wickets,West Indies,0,8,C A Walsh
+1999,Derby,No,New Zealand,Pakistan,New Zealand,Pakistan won by 62 runs,Pakistan,62,0,Inzamam-ul-Haq
+1999,Birmingham,No,England,India,England,India won by 63 runs,India,63,0,S C Ganguly
+1999,Chelmsford,No,South Africa,Zimbabwe,Zimbabwe,Zimbabwe won by 48 runs,Zimbabwe,48,0,N C Johnson
+1999,Southampton,No,Kenya,Sri Lanka,Kenya,Sri Lanka won by 45 runs,Sri Lanka,45,0,M O Odumbe
+1999,Manchester,No,Australia,West Indies,Australia,Australia won by 6 wickets,Australia,0,6,G D McGrath
+1999,Northampton,No,Bangladesh,Pakistan,Pakistan,Bangladesh won by 62 runs,Bangladesh,62,0,Khaled Mahmud
+1999,Edinburgh,No,Scotland,New Zealand,New Zealand,New Zealand won by 6 wickets,New Zealand,0,6,G I Allott
+1999,London,No,Australia,India,India,Australia won by 77 runs,Australia,77,0,G D McGrath
+1999,Nottingham,No,Pakistan,South Africa,Pakistan,South Africa won by 3 wickets,South Africa,0,3,L Klusener
+1999,Leeds,No,New Zealand,Zimbabwe,Zimbabwe,No result,No result,0,0,No Award
+1999,Manchester,No,India,Pakistan,India,India won by 47 runs,India,47,0,B K V Prasad
+1999,London,No,Australia,Zimbabwe,Zimbabwe,Australia won by 44 runs,Australia,44,0,N C Johnson
+1999,Birmingham,No,New Zealand,South Africa,South Africa,South Africa won by 74 runs,South Africa,74,0,J H Kallis
+1999,London,No,Pakistan,Zimbabwe,Pakistan,Pakistan won by 148 runs,Pakistan,148,0,Saeed Anwar
+1999,Nottingham,No,India,New Zealand,India,New Zealand won by 5 wickets,New Zealand,0,5,R G Twose
+1999,Leeds,No,Australia,South Africa,South Africa,Australia won by 5 wickets,Australia,0,5,S R Waugh
+1999,Manchester,No,New Zealand,Pakistan,New Zealand,Pakistan won by 9 wickets,Pakistan,0,9,Shoaib Akhtar
+1999,Birmingham,No,Australia,South Africa,South Africa,Match tied,Match tied,0,0,S K Warne
+1999,London,Yes,Australia,Pakistan,Pakistan,Australia won by 8 wickets,Australia,0,8,S K Warne
+2003,Cape Town,No,South Africa,West Indies,West Indies,West Indies won by 3 runs,West Indies,3,0,B C Lara
+2003,Harare,No,Zimbabwe,Namibia,Namibia,Zimbabwe won by 86 runs [Duckworth-Lewis],Zimbabwe,86,0,C B Wishart
+2003,Bloemfontein,No,New Zealand,Sri Lanka,New Zealand,Sri Lanka won by 47 runs,Sri Lanka,47,0,S T Jayasuriya
+2003,Johannesburg,No,Australia,Pakistan,Pakistan,Australia won by 82 runs,Australia,82,0,A Symonds
+2003,Durban,No,Bangladesh,Canada,Canada,Canada won by 60 runs,Canada,60,0,A Codrington
+2003,Potchefstroom,No,South Africa,Kenya,Kenya,South Africa won by 10 wickets,South Africa,0,10,L Klusener
+2003,Paarl,No,India,Netherlands,India,India won by 68 runs,India,68,0,T B M de Leede
+2003,Port Elizabeth,No,West Indies,New Zealand,West Indies,New Zealand won by 20 runs,New Zealand,20,0,A R Adams
+2003,Harare,No,Zimbabwe,England,Zimbabwe,Zimbabwe won by default,Zimbabwe,0,0,No Award
+2003,Pietermaritzburg,No,Sri Lanka,Bangladesh,Sri Lanka,Sri Lanka won by 10 wickets,Sri Lanka,0,10,W P U J C Vaas
+2003,Cape Town,No,Kenya,Canada,Canada,Kenya won by 4 wickets,Kenya,0,4,T M Odoyo
+2003,Centurion,No,Australia,India,India,Australia won by 9 wickets,Australia,0,9,J N Gillespie
+2003,Johannesburg,No,South Africa,New Zealand,South Africa,New Zealand won by 9 wickets [Duckworth-Lewis],New Zealand,0,9,S P Fleming
+2003,East London,No,England,Netherlands,England,England won by 6 wickets,England,0,6,J M Anderson
+2003,Kimberley,No,Pakistan,Namibia,Pakistan,Pakistan won by 171 runs,Pakistan,171,0,Wasim Akram
+2003,Benoni,No,West Indies,Bangladesh,Bangladesh,No result,No result,0,0,No Award
+2003,Port Elizabeth,No,England,Namibia,Namibia,England won by 55 runs,England,55,0,A J Burger
+2003,Paarl,No,Sri Lanka,Canada,Sri Lanka,Sri Lanka won by 9 wickets,Sri Lanka,0,9,R A P Nissanka
+2003,Harare,No,Zimbabwe,India,Zimbabwe,India won by 83 runs,India,83,0,S R Tendulkar
+2003,Potchefstroom,No,Australia,Netherlands,Netherlands,Australia won by 75 runs [Duckworth-Lewis],Australia,75,0,D R Martyn
+2003,Nairobi,No,New Zealand,Kenya,No Toss,Kenya won by default,Kenya,0,0,No Award
+2003,Cape Town,No,England,Pakistan,England,England won by 112 runs,England,112,0,J M Anderson
+2003,Bloemfontein,No,South Africa,Bangladesh,South Africa,South Africa won by 10 wickets,South Africa,0,10,M Ntini
+2003,Centurion,No,West Indies,Canada,West Indies,West Indies won by 7 wickets,West Indies,0,7,J M Davison
+2003,Pietermaritzburg,No,India,Namibia,Namibia,India won by 181 runs,India,181,0,S R Tendulkar
+2003,Bulawayo,No,Zimbabwe,Australia,Zimbabwe,Australia won by 7 wickets,Australia,0,7,A M Blignaut
+2003,Nairobi,No,Sri Lanka,Kenya,Sri Lanka,Kenya won by 53 runs,Kenya,53,0,C O Obuya
+2003,Paarl,No,Pakistan,Netherlands,Netherlands,Pakistan won by 97 runs,Pakistan,97,0,Mohammad Yousuf
+2003,Durban,No,England,India,India,India won by 82 runs,India,82,0,A Nehra
+2003,Kimberley,No,New Zealand,Bangladesh,Bangladesh,New Zealand won by 7 wickets,New Zealand,0,7,C D McMillan
+2003,East London,No,South Africa,Canada,Canada,South Africa won by 118 runs,South Africa,118,0,H H Dippenaar
+2003,Potchefstroom,No,Australia,Namibia,Australia,Australia won by 256 runs,Australia,256,0,G D McGrath
+2003,Cape Town,No,Sri Lanka,West Indies,Sri Lanka,Sri Lanka won by 6 runs,Sri Lanka,6,0,W P U J C Vaas
+2003,Bulawayo,No,Zimbabwe,Netherlands,Netherlands,Zimbabwe won by 99 runs,Zimbabwe,99,0,H H Streak
+2003,Johannesburg,No,Kenya,Bangladesh,Kenya,Kenya won by 32 runs,Kenya,32,0,M O Odumbe
+2003,Centurion,No,Pakistan,India,Pakistan,India won by 6 wickets,India,0,6,S R Tendulkar
+2003,Port Elizabeth,No,Australia,England,England,Australia won by 2 wickets,Australia,0,2,A J Bichel
+2003,Benoni,No,New Zealand,Canada,New Zealand,New Zealand won by 5 wickets,New Zealand,0,5,J M Davison
+2003,Durban,No,South Africa,Sri Lanka,Sri Lanka,Match tied [Duckworth-Lewis],Match tied [Duckworth-Lewis],0,0,M S Atapattu
+2003,Bloemfontein,No,Namibia,Netherlands,Netherlands,Netherlands won by 64 runs,Netherlands,64,0,J F Kloppenburg
+2003,Kimberley,No,West Indies,Kenya,West Indies,West Indies won by 142 runs,West Indies,142,0,V C Drakes
+2003,Bulawayo,No,Zimbabwe,Pakistan,Pakistan,No result,No result,0,0,No Award
+2003,Centurion,No,Australia,Sri Lanka,Australia,Australia won by 96 runs,Australia,96,0,R T Ponting
+2003,Cape Town,No,India,Kenya,Kenya,India won by 6 wickets,India,0,6,S C Ganguly
+2003,Bloemfontein,No,Zimbabwe,New Zealand,Zimbabwe,New Zealand won by 6 wickets,New Zealand,0,6,N J Astle
+2003,Johannesburg,No,India,Sri Lanka,Sri Lanka,India won by 183 runs,India,183,0,J Srinath
+2003,Port Elizabeth,No,Australia,New Zealand,New Zealand,Australia won by 96 runs,Australia,96,0,S E Bond
+2003,Bloemfontein,No,Zimbabwe,Kenya,Zimbabwe,Kenya won by 7 wickets,Kenya,0,7,M A Suji
+2003,Centurion,No,India,New Zealand,India,India won by 7 wickets,India,0,7,Z Khan
+2003,East London,No,Zimbabwe,Sri Lanka,Sri Lanka,Sri Lanka won by 74 runs,Sri Lanka,74,0,M S Atapattu
+2003,Durban,No,Australia,Kenya,Australia,Australia won by 5 wickets,Australia,0,5,A Y A Karim
+2003,Port Elizabeth,No,Australia,Sri Lanka,Australia,Australia won by 48 runs [Duckworth-Lewis],Australia,48,0,A Symonds
+2003,Durban,No,India,Kenya,India,India won by 91 runs,India,91,0,S C Ganguly
+2003,Johannesburg,Yes,Australia,India,India,Australia won by 125 runs,Australia,125,0,R T Ponting
+2007,Jamaica,No,West Indies,Pakistan,Pakistan,West Indies won by 54 runs,West Indies,54,0,D R Smith
+2007,St Kitts,No,Australia,Scotland,Scotland,Australia won by 203 runs,Australia,203,0,R T Ponting
+2007,St Lucia,No,Canada,Kenya,Kenya,Kenya won by 7 wickets,Kenya,0,7,S O Tikolo
+2007,Trinidad,No,Bermuda,Sri Lanka,Sri Lanka,Sri Lanka won by 243 runs,Sri Lanka,243,0,D P M D Jayawardene
+2007,Jamaica,No,Ireland,Zimbabwe,Zimbabwe,Match tied,Match tied,0,0,J P Bray
+2007,St Lucia,No,England,New Zealand,New Zealand,New Zealand won by 6 wickets,New Zealand,0,6,S B Styris
+2007,St Kitts,No,Netherlands,South Africa,Netherlands,South Africa won by 221 runs,South Africa,221,0,H H Gibbs
+2007,Trinidad,No,Bangladesh,India,India,Bangladesh won by 5 wickets,Bangladesh,0,5,Mashrafe Mortaza
+2007,Jamaica,No,Ireland,Pakistan,Ireland,Ireland won by 3 wickets [Duckworth-Lewis],Ireland,0,3,N J O'Brien
+2007,St Kitts,No,Australia,Netherlands,Australia,Australia won by 229 runs,Australia,229,0,B J Hodge
+2007,St Lucia,No,Canada,England,Canada,England won by 51 runs,England,51,0,P D Collingwood
+2007,Trinidad,No,Bermuda,India,Bermuda,India won by 257 runs,India,257,0,V Sehwag
+2007,Jamaica,No,West Indies,Zimbabwe,West Indies,West Indies won by 6 wickets,West Indies,0,6,S C Williams
+2007,St Lucia,No,Kenya,New Zealand,Kenya,New Zealand won by 148 runs,New Zealand,148,0,L R P L Taylor
+2007,St Kitts,No,Scotland,South Africa,South Africa,South Africa won by 7 wickets,South Africa,0,7,G C Smith
+2007,Trinidad,No,Bangladesh,Sri Lanka,Bangladesh,Sri Lanka won by 198 runs [Duckworth-Lewis],Sri Lanka,198,0,S T Jayasuriya
+2007,Jamaica,No,Pakistan,Zimbabwe,Zimbabwe,Pakistan won by 93 runs [Duckworth-Lewis],Pakistan,93,0,Imran Nazir
+2007,St Lucia,No,Canada,New Zealand,Canada,New Zealand won by 114 runs,New Zealand,114,0,L Vincent
+2007,St Kitts,No,Netherlands,Scotland,Netherlands,Netherlands won by 8 wickets,Netherlands,0,8,W F Stelling
+2007,Trinidad,No,India,Sri Lanka,India,Sri Lanka won by 69 runs,Sri Lanka,69,0,M Muralitharan
+2007,Trinidad,No,West Indies,Ireland,Ireland,West Indies won by 8 wickets [Duckworth-Lewis],West Indies,0,8,S Chanderpaul
+2007,St Kitts,No,Australia,South Africa,South Africa,Australia won by 83 runs,Australia,83,0,M L Hayden
+2007,St Lucia,No,England,Kenya,Kenya,England won by 7 wickets,England,0,7,E C Joyce
+2007,Trinidad,No,Bangladesh,Bermuda,Bangladesh,Bangladesh won by 7 wickets [Duckworth-Lewis],Bangladesh,0,7,Mohammad Ashraful
+2007,Antigua,No,West Indies,Australia,West Indies,Australia won by 103 runs,Australia,103,0,M L Hayden
+2007,Guyana,No,South Africa,Sri Lanka,Sri Lanka,South Africa won by 1 wicket,South Africa,0,1,C K Langeveldt
+2007,Antigua,No,West Indies,New Zealand,New Zealand,New Zealand won by 7 wickets,New Zealand,0,7,J D P Oram
+2007,Guyana,No,England,Ireland,England,England won by 48 runs,England,48,0,P D Collingwood
+2007,Antigua,No,Australia,Bangladesh,Australia,Australia won by 10 wickets,Australia,0,10,G D McGrath
+2007,Guyana,No,West Indies,Sri Lanka,West Indies,Sri Lanka won by 113 runs,Sri Lanka,113,0,S T Jayasuriya
+2007,Antigua,No,Bangladesh,New Zealand,New Zealand,New Zealand won by 9 wickets,New Zealand,0,9,S E Bond
+2007,Guyana,No,Ireland,South Africa,South Africa,South Africa won by 7 wickets [Duckworth-Lewis],South Africa,0,7,J H Kallis
+2007,Antigua,No,England,Sri Lanka,England,Sri Lanka won by 2 runs,Sri Lanka,2,0,R S Bopara
+2007,Guyana,No,Bangladesh,South Africa,South Africa,Bangladesh won by 67 runs,Bangladesh,67,0,Mohammad Ashraful
+2007,Antigua,No,Australia,England,England,Australia won by 7 wickets,Australia,0,7,S W Tait
+2007,Guyana,No,Ireland,New Zealand,Ireland,New Zealand won by 129 runs,New Zealand,129,0,P G Fulton
+2007,Grenada,No,West Indies,South Africa,West Indies,South Africa won by 67 runs,South Africa,67,0,A B de Villiers
+2007,Barbados,No,Bangladesh,England,England,England won by 4 wickets,England,0,4,S I Mahmood
+2007,Grenada,No,New Zealand,Sri Lanka,New Zealand,Sri Lanka won by 6 wickets,Sri Lanka,0,6,W P U J C Vaas
+2007,Barbados,No,Australia,Ireland,Australia,Australia won by 9 wickets,Australia,0,9,G D McGrath
+2007,Grenada,No,New Zealand,South Africa,New Zealand,New Zealand won by 5 wickets,New Zealand,0,5,C D McMillan
+2007,Barbados,No,Bangladesh,Ireland,Ireland,Ireland won by 74 runs,Ireland,74,0,W T S Porterfield
+2007,Grenada,No,Australia,Sri Lanka,Sri Lanka,Australia won by 7 wickets,Australia,0,7,N W Bracken
+2007,Barbados,No,England,South Africa,England,South Africa won by 9 wickets,South Africa,0,9,A J Hall
+2007,Grenada,No,Ireland,Sri Lanka,Sri Lanka,Sri Lanka won by 8 wickets,Sri Lanka,0,8,M F Maharoof
+2007,Barbados,No,West Indies,Bangladesh,Bangladesh,West Indies won by 99 runs,West Indies,99,0,R R Sarwan
+2007,Grenada,No,Australia,New Zealand,Australia,Australia won by 215 runs,Australia,215,0,M L Hayden
+2007,Barbados,No,West Indies,England,England,England won by 1 wicket,England,0,1,K P Pietersen
+2007,Jamaica,No,New Zealand,Sri Lanka,Sri Lanka,Sri Lanka won by 81 runs,Sri Lanka,81,0,D P M D Jayawardene
+2007,St Lucia,No,Australia,South Africa,South Africa,Australia won by 7 wickets,Australia,0,7,G D McGrath
+2007,Barbados,Yes,Australia,Sri Lanka,Australia,Australia won by 53 runs [Duckworth-Lewis],Australia,53,0,A C Gilchrist
+2011,Dhaka,No,Bangladesh,India,Bangladesh,India won by 87 runs,India,87,0,V Sehwag
+2011,Chennai,No,Kenya,New Zealand,Kenya,New Zealand won by 10 wickets,New Zealand,0,10,H K Bennett
+2011,Hambantota,No,Sri Lanka,Canada,Sri Lanka,Sri Lanka won by 210 runs,Sri Lanka,210,0,D P M D Jayawardene
+2011,Ahmedabad,No,Australia,Zimbabwe,Australia,Australia won by 91 runs,Australia,91,0,S R Watson
+2011,Nagpur,No,England,Netherlands,Netherlands,England won by 6 wickets,England,0,6,R N ten Doeschate
+2011,Hambantota,No,Kenya,Pakistan,Pakistan,Pakistan won by 205 runs,Pakistan,205,0,Umar Akmal
+2011,Delhi,No,South Africa,West Indies,South Africa,South Africa won by 7 wickets,South Africa,0,7,A B de Villiers
+2011,Nagpur,No,Australia,New Zealand,Australia,Australia won by 7 wickets,Australia,0,7,M G Johnson
+2011,Dhaka,No,Bangladesh,Ireland,Bangladesh,Bangladesh won by 27 runs,Bangladesh,27,0,Tamim Iqbal
+2011,Colombo,No,Sri Lanka,Pakistan,Pakistan,Pakistan won by 11 runs,Pakistan,11,0,Shahid Afridi
+2011,Bangalore,No,India,England,India,Match tied,Match tied,0,0,A J Strauss
+2011,Nagpur,No,Canada,Zimbabwe,Zimbabwe,Zimbabwe won by 175 runs,Zimbabwe,175,0,T Taibu
+2011,Delhi,No,Netherlands,West Indies,Netherlands,West Indies won by 215 runs,West Indies,215,0,K A J Roach
+2011,Colombo,No,Sri Lanka,Kenya,Kenya,Sri Lanka won by 9 wickets,Sri Lanka,0,9,S L Malinga
+2011,Bangalore,No,England,Ireland,England,Ireland won by 3 wickets,Ireland,0,3,K J O'Brien
+2011,Chandigarh,No,Netherlands,South Africa,Netherlands,South Africa won by 231 runs,South Africa,231,0,A B de Villiers
+2011,Colombo,No,Canada,Pakistan,Canada,Pakistan won by 46 runs,Pakistan,46,0,Shahid Afridi
+2011,Ahmedabad,No,New Zealand,Zimbabwe,Zimbabwe,New Zealand won by 10 wickets,New Zealand,0,10,M J Guptill
+2011,Dhaka,No,Bangladesh,West Indies,Bangladesh,West Indies won by 9 wickets,West Indies,0,9,K A J Roach
+2011,Colombo,No,Sri Lanka,Australia,Sri Lanka,No result,No result,0,0,No Award
+2011,Chennai,No,England,South Africa,England,England won by 6 runs,England,6,0,R S Bopara
+2011,Bangalore,No,India,Ireland,India,India won by 5 wickets,India,0,5,Yuvraj Singh
+2011,Delhi,No,Canada,Kenya,Kenya,Canada won by 5 wickets,Canada,0,5,H Osinde
+2011,Kandy,No,New Zealand,Pakistan,New Zealand,New Zealand won by 110 runs,New Zealand,110,0,L R P L Taylor
+2011,Delhi,No,India,Netherlands,Netherlands,India won by 5 wickets,India,0,5,Yuvraj Singh
+2011,Kandy,No,Sri Lanka,Zimbabwe,Zimbabwe,Sri Lanka won by 139 runs,Sri Lanka,139,0,T M Dilshan
+2011,Chandigarh,No,Ireland,West Indies,Ireland,West Indies won by 44 runs,West Indies,44,0,K A Pollard
+2011,Chittagong,No,Bangladesh,England,Bangladesh,Bangladesh won by 2 wickets,Bangladesh,0,2,Imrul Kayes
+2011,Nagpur,No,India,South Africa,India,South Africa won by 3 wickets,South Africa,0,3,D W Steyn
+2011,Mumbai,No,Canada,New Zealand,Canada,New Zealand won by 97 runs,New Zealand,97,0,B B McCullum
+2011,Bangalore,No,Australia,Kenya,Australia,Australia won by 60 runs,Australia,60,0,C O Obuya
+2011,Chittagong,No,Bangladesh,Netherlands,Netherlands,Bangladesh won by 6 wickets,Bangladesh,0,6,Imrul Kayes
+2011,Kandy,No,Pakistan,Zimbabwe,Zimbabwe,Pakistan won by 7 wickets,Pakistan,0,7,Umar Gul
+2011,Kolkata,No,Ireland,South Africa,Ireland,South Africa won by 131 runs,South Africa,131,0,J-P Duminy
+2011,Bangalore,No,Australia,Canada,Canada,Australia won by 7 wickets,Australia,0,7,S R Watson
+2011,Chennai,No,England,West Indies,England,England won by 18 runs,England,18,0,J C Tredwell
+2011,Kolkata,No,Ireland,Netherlands,Ireland,Ireland won by 6 wickets,Ireland,0,6,P R Stirling
+2011,Mumbai,No,New Zealand,Sri Lanka,Sri Lanka,Sri Lanka won by 112 runs,Sri Lanka,112,0,K C Sangakkara
+2011,Dhaka,No,Bangladesh,South Africa,South Africa,South Africa won by 206 runs,South Africa,206,0,L L Tsotsobe
+2011,Colombo,No,Australia,Pakistan,Australia,Pakistan won by 4 wickets,Pakistan,0,4,Umar Akmal
+2011,Kolkata,No,Kenya,Zimbabwe,Zimbabwe,Zimbabwe won by 161 runs,Zimbabwe,161,0,C R Ervine
+2011,Chennai,No,India,West Indies,India,India won by 80 runs,India,80,0,Yuvraj Singh
+2011,Dhaka,No,Pakistan,West Indies,West Indies,Pakistan won by 10 wickets,Pakistan,0,10,Mohammad Hafeez
+2011,Ahmedabad,No,India,Australia,Australia,India won by 5 wickets,India,0,5,Yuvraj Singh
+2011,Dhaka,No,New Zealand,South Africa,New Zealand,New Zealand won by 49 runs,New Zealand,49,0,J D P Oram
+2011,Colombo,No,Sri Lanka,England,England,Sri Lanka won by 10 wickets,Sri Lanka,0,10,T M Dilshan
+2011,Colombo,No,Sri Lanka,New Zealand,New Zealand,Sri Lanka won by 5 wickets,Sri Lanka,0,5,K C Sangakkara
+2011,Chandigarh,No,India,Pakistan,India,India won by 29 runs,India,29,0,S R Tendulkar
+2011,Mumbai,Yes,India,Sri Lanka,Sri Lanka,India won by 6 wickets,India,0,6,M S Dhoni
+2015,Christchurch,No,New Zealand,Sri Lanka,Sri Lanka,New Zealand won by 98 runs,New Zealand,98,0,C J Anderson
+2015,Melbourne,No,Australia,England,England,Australia won by 111 runs,Australia,111,0,A J Finch
+2015,Hamilton,No,South Africa,Zimbabwe,Zimbabwe,South Africa won by 62 runs,South Africa,62,0,D A Miller
+2015,Adelaide,No,India,Pakistan,India,India won by 76 runs,India,76,0,V Kohli
+2015,Nelson,No,Ireland,West Indies,Ireland,Ireland won by 4 wickets,Ireland,0,4,P R Stirling
+2015,Dunedin,No,New Zealand,Scotland,New Zealand,New Zealand won by 3 wickets,New Zealand,0,3,T A Boult
+2015,Canberra,No,Afghanistan,Bangladesh,Bangladesh,Bangladesh won by 105 runs,Bangladesh,105,0,Mushfiqur Rahim
+2015,Nelson,No,United Arab Emirates,Zimbabwe,Zimbabwe,Zimbabwe won by 4 wickets,Zimbabwe,0,4,S C Williams
+2015,Wellington,No,New Zealand,England,England,New Zealand won by 8 wickets,New Zealand,0,8,T G Southee
+2015,Christchurch,No,Pakistan,West Indies,Pakistan,West Indies won by 150 runs,West Indies,150,0,A D Russell
+2015,Brisbane,No,Australia,Bangladesh,No Toss,Match abandoned,Match abandoned,0,0,No Award
+2015,Dunedin,No,Afghanistan,Sri Lanka,Sri Lanka,Sri Lanka won by 4 wickets,Sri Lanka,0,4,D P M D Jayawardene
+2015,Melbourne,No,India,South Africa,India,India won by 130 runs,India,130,0,S Dhawan
+2015,Christchurch,No,England,Scotland,Scotland,England won by 119 runs,England,119,0,M M Ali
+2015,Canberra,No,West Indies,Zimbabwe,West Indies,West Indies won by 73 runs [Duckworth-Lewis],West Indies,73,0,C H Gayle
+2015,Brisbane,No,Ireland,United Arab Emirates,Ireland,Ireland won by 2 wickets,Ireland,0,2,G C Wilson
+2015,Dunedin,No,Afghanistan,Scotland,Afghanistan,Afghanistan won by 1 wicket,Afghanistan,0,1,Samiullah Shinwari
+2015,Melbourne,No,Bangladesh,Sri Lanka,Sri Lanka,Sri Lanka won by 92 runs,Sri Lanka,92,0,T M Dilshan
+2015,Sydney,No,South Africa,West Indies,South Africa,South Africa won by 257 runs,South Africa,257,0,A B de Villiers
+2015,Auckland,No,New Zealand,Australia,Australia,New Zealand won by 1 wicket,New Zealand,0,1,T A Boult
+2015,Perth,No,India,United Arab Emirates,United Arab Emirates,India won by 9 wickets,India,0,9,R Ashwin
+2015,Wellington,No,England,Sri Lanka,England,Sri Lanka won by 9 wickets,Sri Lanka,0,9,K C Sangakkara
+2015,Brisbane,No,Pakistan,Zimbabwe,Pakistan,Pakistan won by 20 runs,Pakistan,20,0,Wahab Riaz
+2015,Canberra,No,Ireland,South Africa,South Africa,South Africa won by 201 runs,South Africa,201,0,H M Amla
+2015,Napier,No,Pakistan,United Arab Emirates,United Arab Emirates,Pakistan won by 129 runs,Pakistan,129,0,Ahmed Shehzad
+2015,Perth,No,Australia,Afghanistan,Afghanistan,Australia won by 275 runs,Australia,275,0,D A Warner
+2015,Nelson,No,Bangladesh,Scotland,Bangladesh,Bangladesh won by 6 wickets,Bangladesh,0,6,K J Coetzer
+2015,Perth,No,India,West Indies,West Indies,India won by 4 wickets,India,0,4,Mohammed Shami
+2015,Auckland,No,Pakistan,South Africa,South Africa,Pakistan won by 29 runs [Duckworth-Lewis],Pakistan,29,0,Sarfaraz Ahmed
+2015,Hobart,No,Ireland,Zimbabwe,Zimbabwe,Ireland won by 5 runs,Ireland,5,0,E C Joyce
+2015,Napier,No,New Zealand,Afghanistan,Afghanistan,New Zealand won by 6 wickets,New Zealand,0,6,D L Vettori
+2015,Sydney,No,Australia,Sri Lanka,Australia,Australia won by 64 runs,Australia,64,0,G J Maxwell
+2015,Adelaide,No,Bangladesh,England,England,Bangladesh won by 15 runs,Bangladesh,15,0,Mahmudullah
+2015,Hamilton,No,India,Ireland,Ireland,India won by 8 wickets,India,0,8,S Dhawan
+2015,Hobart,No,Scotland,Sri Lanka,Sri Lanka,Sri Lanka won by 148 runs,Sri Lanka,148,0,K C Sangakkara
+2015,Wellington,No,South Africa,United Arab Emirates,United Arab Emirates,South Africa won by 146 runs,South Africa,146,0,A B de Villiers
+2015,Hamilton,No,New Zealand,Bangladesh,New Zealand,New Zealand won by 3 wickets,New Zealand,0,3,M J Guptill
+2015,Sydney,No,Afghanistan,England,England,England won by 9 wickets [Duckworth-Lewis],England,0,9,C J Jordan
+2015,Auckland,No,India,Zimbabwe,India,India won by 6 wickets,India,0,6,S K Raina
+2015,Hobart,No,Australia,Scotland,Australia,Australia won by 7 wickets,Australia,0,7,M A Starc
+2015,Napier,No,United Arab Emirates,West Indies,West Indies,West Indies won by 6 wickets,West Indies,0,6,J O Holder
+2015,Adelaide,No,Ireland,Pakistan,Ireland,Pakistan won by 7 wickets,Pakistan,0,7,Sarfaraz Ahmed
+2015,Sydney,No,South Africa,Sri Lanka,Sri Lanka,South Africa won by 9 wickets,South Africa,0,9,Imran Tahir
+2015,Melbourne,No,Bangladesh,India,India,India won by 109 runs,India,109,0,R G Sharma
+2015,Adelaide,No,Australia,Pakistan,Pakistan,Australia won by 6 wickets,Australia,0,6,J R Hazlewood
+2015,Wellington,No,New Zealand,West Indies,New Zealand,New Zealand won by 143 runs,New Zealand,143,0,M J Guptill
+2015,Auckland,No,New Zealand,South Africa,South Africa,New Zealand won by 4 wickets [Duckworth-Lewis],New Zealand,0,4,G D Elliott
+2015,Sydney,No,Australia,India,Australia,Australia won by 95 runs,Australia,95,0,S P D Smith
+2015,Melbourne,Yes,Australia,New Zealand,New Zealand,Australia won by 7 wickets,Australia,0,7,J P Faulkner
+2019,London,No,England,South Africa,South Africa,England won by 104 runs,England,104,0,B A Stokes
+2019,Nottingham,No,Pakistan,West Indies,West Indies,West Indies won by 7 wickets,West Indies,0,7,O R Thomas
+2019,Cardiff,No,New Zealand,Sri Lanka,New Zealand,New Zealand won by 10 wickets,New Zealand,0,10,M J Henry
+2019,Bristol,No,Afghanistan,Australia,Afghanistan,Australia won by 7 wickets,Australia,0,7,D A Warner
+2019,London,No,Bangladesh,South Africa,South Africa,Bangladesh won by 21 runs,Bangladesh,21,0,Shakib Al Hasan
+2019,Nottingham,No,England,Pakistan,England,Pakistan won by 14 runs,Pakistan,14,0,Mohammad Hafeez
+2019,Cardiff,No,Afghanistan,Sri Lanka,Afghanistan,Sri Lanka won by 34 runs [Duckworth-Lewis],Sri Lanka,34,0,N Pradeep
+2019,Southampton,No,India,South Africa,South Africa,India won by 6 wickets,India,0,6,R G Sharma
+2019,London,No,Bangladesh,New Zealand,New Zealand,New Zealand won by 2 wickets,New Zealand,0,2,L R P L Taylor
+2019,Nottingham,No,Australia,West Indies,West Indies,Australia won by 15 runs,Australia,15,0,N M Coulter-Nile
+2019,Bristol,No,Pakistan,Sri Lanka,No Toss,Match abandoned,Match abandoned,0,0,No Award
+2019,Cardiff,No,England,Bangladesh,Bangladesh,England won by 106 runs,England,106,0,J J Roy
+2019,Taunton,No,Afghanistan,New Zealand,New Zealand,New Zealand won by 7 wickets,New Zealand,0,7,J D S Neesham
+2019,London,No,Australia,India,India,India won by 36 runs,India,36,0,S Dhawan
+2019,Southampton,No,South Africa,West Indies,West Indies,No result,No result,0,0,No Award
+2019,Bristol,No,Bangladesh,Sri Lanka,No Toss,Match abandoned,Match abandoned,0,0,No Award
+2019,Taunton,No,Australia,Pakistan,Pakistan,Australia won by 41 runs,Australia,41,0,D A Warner
+2019,Nottingham,No,India,New Zealand,No Toss,Match abandoned,Match abandoned,0,0,No Award
+2019,Southampton,No,England,West Indies,England,England won by 8 wickets,England,0,8,J E Root
+2019,London,No,Australia,Sri Lanka,Sri Lanka,Australia won by 87 runs,Australia,87,0,A J Finch
+2019,Cardiff,No,Afghanistan,South Africa,South Africa,South Africa won by 9 wickets [Duckworth-Lewis],South Africa,0,9,Imran Tahir
+2019,Manchester,No,India,Pakistan,Pakistan,India won by 89 runs [Duckworth-Lewis],India,89,0,R G Sharma
+2019,Taunton,No,Bangladesh,West Indies,Bangladesh,Bangladesh won by 7 wickets,Bangladesh,0,7,Shakib Al Hasan
+2019,Manchester,No,England,Afghanistan,England,England won by 150 runs,England,150,0,E J G Morgan
+2019,Birmingham,No,New Zealand,South Africa,New Zealand,New Zealand won by 4 wickets,New Zealand,0,4,K S Williamson
+2019,Nottingham,No,Australia,Bangladesh,Australia,Australia won by 48 runs,Australia,48,0,D A Warner
+2019,Leeds,No,England,Sri Lanka,Sri Lanka,Sri Lanka won by 20 runs,Sri Lanka,20,0,S L Malinga
+2019,Southampton,No,Afghanistan,India,India,India won by 11 runs,India,11,0,J J Bumrah
+2019,Manchester,No,New Zealand,West Indies,West Indies,New Zealand won by 5 runs,New Zealand,5,0,K S Williamson
+2019,London,No,Pakistan,South Africa,Pakistan,Pakistan won by 49 runs,Pakistan,49,0,Haris Sohail
+2019,Southampton,No,Afghanistan,Bangladesh,Bangladesh,Bangladesh won by 62 runs,Bangladesh,62,0,Shakib Al Hasan
+2019,London,No,England,Australia,England,Australia won by 64 runs,Australia,64,0,A J Finch
+2019,Birmingham,No,New Zealand,Pakistan,New Zealand,Pakistan won by 6 wickets,Pakistan,0,6,Babar Azam
+2019,Manchester,No,India,West Indies,India,India won by 125 runs,India,125,0,V Kohli
+2019,Chester-Le-Street,No,South Africa,Sri Lanka,South Africa,South Africa won by 9 wickets,South Africa,0,9,D Pretorius
+2019,Leeds,No,Afghanistan,Pakistan,Afghanistan,Pakistan won by 3 wickets,Pakistan,0,3,Imad Wasim
+2019,London,No,Australia,New Zealand,Australia,Australia won by 86 runs,Australia,86,0,A T Carey
+2019,Birmingham,No,England,India,England,England won by 31 runs,England,31,0,J M Bairstow
+2019,Chester-Le-Street,No,Sri Lanka,West Indies,West Indies,Sri Lanka won by 23 runs,Sri Lanka,23,0,W I A Fernando
+2019,Birmingham,No,Bangladesh,India,India,India won by 28 runs,India,28,0,R G Sharma
+2019,Chester-Le-Street,No,England,New Zealand,England,England won by 119 runs,England,119,0,J M Bairstow
+2019,Leeds,No,Afghanistan,West Indies,West Indies,West Indies won by 23 runs,West Indies,23,0,S D Hope
+2019,London,No,Bangladesh,Pakistan,Pakistan,Pakistan won by 94 runs,Pakistan,94,0,Shaheen Shah Afridi
+2019,Leeds,No,India,Sri Lanka,Sri Lanka,India won by 7 wickets,India,0,7,R G Sharma
+2019,Manchester,No,Australia,South Africa,South Africa,South Africa won by 10 runs,South Africa,10,0,F du Plessis
+2019,Manchester,No,India,New Zealand,New Zealand,New Zealand won by 18 runs,New Zealand,18,0,M J Henry
+2019,Birmingham,No,England,Australia,Australia,England won by 8 wickets,England,0,8,C R Woakes
+2019,London,Yes,England,New Zealand,New Zealand,England won on boundary count after scores and super over were tied,England,0,0,B A Stokes
